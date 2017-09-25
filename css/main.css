@@ -1,6 +1,4 @@
 body{
-/*    margin: 0; !important
-    padding: 0; !important*/
     font:1.2em/1.62 sans-serif;
 }
 .landing {
@@ -9,8 +7,9 @@ body{
 .landing > h1 {
     font-size:2.5em;
 }
-.landing > h3 {
+.landing > p {
     font-size:1.6em;
+    line-height:1.2;
 }
 .landing > hr {
     border: none;
@@ -20,4 +19,33 @@ body{
 }
 .center-contents {
     text-align:center;
+/*    margin:auto;
+    padding:auto;*/
+}
+.main-splash {
+    background: url(../img/splash.png);
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin-bottom: 25px;
+    position: relative;
+}
+.anchor {
+    display: block;
+    position: relative;
+    top: -55px;
+    visibility: hidden;
+}
+.down-arrow a{
+    position: fixed;
+    bottom:0px;
+    left:calc(50% - 13px );
+    font-size:40px;
+    color:#fff;
+    z-index:101;
+    opacity: 0.7;
+}
+.down-arrow a:hover {
+    opacity:1;
 }
