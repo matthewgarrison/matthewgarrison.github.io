@@ -1,15 +1,15 @@
 body{
-    font:1.2em/1.62 sans-serif;
+    font: 1.2em/1.62 sans-serif;
 }
 h2 {
     font-size: 2.2em;
 }
 .landing > h1 {
-    font-size:2.8em;
+    font-size: 2.8em;
 }
 .landing > p {
-    font-size:1.6em;
-    line-height:1.2;
+    font-size: 1.6em;
+    line-height: 1.2;
 }
 .landing > hr {
     border: none;
@@ -18,10 +18,10 @@ h2 {
     background-color: #333;
 }
 .center-contents {
-    text-align:center;
+    text-align: center;
 }
 .main-splash {
-    background-color:#00b0b0;
+    background-color: #00B0B0;
     height: 100vh;
     margin-bottom: 25px;
     position: relative;
@@ -34,18 +34,17 @@ h2 {
 }
 .down-arrow a{
     position: fixed;
-    bottom:0px;
-    left:calc(50% - 13px );
-    font-size:40px;
-    color:#fff;
-    z-index:101;
+    bottom: 0px;
+    left: calc(50% - 13px );
+    font-size: 40px;
+    color: #FFF;
+    z-index: 101;
     opacity: 0.7;
 }
 .down-arrow a:hover {
-    opacity:1;
+    opacity: 1;
 }
 .projects h2 {
-    /*margin-top: 20px;*/
     margin-bottom: 5px;
 }
 .projects > .row {
@@ -60,7 +59,7 @@ h2 {
     background-color: #9CEAEF;
 }
 .projects p {
-    font-size:0.9em;
+    font-size: 0.9em;
 }
 .footer {
     margin-top: 50px;
