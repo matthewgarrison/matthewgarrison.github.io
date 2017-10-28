@@ -44,8 +44,12 @@ h2 {
 .down-arrow a:hover {
     opacity:1;
 }
+.projects h2 {
+    /*margin-top: 20px;*/
+    margin-bottom: 5px;
+}
 .projects > .row {
-    margin-bottom: 25px;
+    margin-bottom: 20px;
 }
 .project-card {
     border-radius: 5px;
@@ -63,4 +67,7 @@ h2 {
 }
 .big-icon {
     font-size: 105pt;
+}
+.align-right {
+    text-align: right;
 }
