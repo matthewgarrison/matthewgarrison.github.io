@@ -1,11 +1,11 @@
 body{
     font:1.2em/1.62 sans-serif;
 }
-.landing {
-    
+h2 {
+    font-size: 2.2em;
 }
 .landing > h1 {
-    font-size:2.5em;
+    font-size:2.8em;
 }
 .landing > p {
     font-size:1.6em;
@@ -19,14 +19,9 @@ body{
 }
 .center-contents {
     text-align:center;
-/*    margin:auto;
-    padding:auto;*/
 }
 .main-splash {
-    background: url(../img/splash.png);
-    background-size: cover;
-    background-position: top;
-    background-repeat: no-repeat;
+    background-color:#00b0b0;
     height: 100vh;
     margin-bottom: 25px;
     position: relative;
@@ -34,7 +29,7 @@ body{
 .anchor {
     display: block;
     position: relative;
-    top: -55px;
+    top: -20px;
     visibility: hidden;
 }
 .down-arrow a{
@@ -48,4 +43,24 @@ body{
 }
 .down-arrow a:hover {
     opacity:1;
+}
+.projects > .row {
+    margin-bottom: 25px;
+}
+.project-card {
+    border-radius: 5px;
+    border: 0.5px solid;
+    padding-top: 14px;
+    padding-bottom: 7px;
+    box-shadow: 2px 2px 2px #222;
+    background-color: #9CEAEF;
+}
+.projects p {
+    font-size:0.9em;
+}
+.footer {
+    margin-top: 50px;
+}
+.big-icon {
+    font-size: 105pt;
 }
