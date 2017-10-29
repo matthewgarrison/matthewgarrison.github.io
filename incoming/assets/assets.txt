@@ -1,0 +1,127 @@
+d:assets:0:application/unknown
+d:Buttons:0:application/unknown
+i:Buttons/OnScreenDown.png:2671:image/png
+i:Buttons/OnScreenLeft.png:2682:image/png
+i:Buttons/OnScreenPause.png:1656:image/png
+i:Buttons/OnScreenPlay.png:2013:image/png
+i:Buttons/OnScreenRight.png:2696:image/png
+i:Buttons/OnScreenUp.png:2657:image/png
+d:Fonts:0:application/unknown
+d:Fonts/Arial 30px - hiero:0:application/unknown
+t:Fonts/Arial 30px - hiero/a.fnt:11624:application/unknown
+i:Fonts/Arial 30px - hiero/a.png:29245:image/png
+d:Fonts/bob - hiero:0:application/unknown
+t:Fonts/bob - hiero/bob.fnt:11681:application/unknown
+i:Fonts/bob - hiero/bob.png:31510:image/png
+t:Fonts/bob - hiero/info.txt:42:text/plain
+d:Fonts/joe - hiero:0:application/unknown
+t:Fonts/joe - hiero/forty.fnt:11581:application/unknown
+i:Fonts/joe - hiero/forty.png:41757:image/png
+t:Fonts/joe - hiero/info.txt:42:text/plain
+d:Fonts/normal:0:application/unknown
+t:Fonts/normal/a.fnt:11700:application/unknown
+i:Fonts/normal/a.png:41803:image/png
+d:Fonts/normal2:0:application/unknown
+t:Fonts/normal2/a.fnt:11723:application/unknown
+i:Fonts/normal2/a.png:36170:image/png
+t:Fonts/normal2/b.fnt:11723:application/unknown
+i:Fonts/normal2/b.png:34491:image/png
+d:Fonts/randoms:0:application/unknown
+b:Fonts/randoms/Arialic Hollow.ttf:181020:application/unknown
+b:Fonts/randoms/OpenSans-Bold.ttf:224592:application/unknown
+b:Fonts/randoms/OpenSans-BoldItalic.ttf:213292:application/unknown
+b:Fonts/randoms/OpenSans-ExtraBold.ttf:222584:application/unknown
+b:Fonts/randoms/OpenSans-ExtraBoldItalic.ttf:213420:application/unknown
+b:Fonts/randoms/OpenSans-Italic.ttf:212896:application/unknown
+b:Fonts/randoms/OpenSans-Light.ttf:222412:application/unknown
+b:Fonts/randoms/OpenSans-LightItalic.ttf:213128:application/unknown
+b:Fonts/randoms/OpenSans-Regular.ttf:217360:application/unknown
+b:Fonts/randoms/OpenSans-Semibold.ttf:221328:application/unknown
+b:Fonts/randoms/OpenSans-SemiboldItalic.ttf:212820:application/unknown
+b:Fonts/randoms/os.ttf:217360:application/unknown
+b:Fonts/randoms/os2.otf:13252:application/unknown
+b:Fonts/randoms/OstrichSans-Bold.otf:13252:application/unknown
+b:Fonts/randoms/OstrichSansStack-1.otf:10784:application/unknown
+b:Fonts/randoms/OstrichSansStack-2.otf:7784:application/unknown
+b:Fonts/randoms/OstrichSansStack-3.otf:5708:application/unknown
+b:Fonts/randoms/OstrichSansStack-4.otf:5584:application/unknown
+t:Fonts/what to do.txt:329:text/plain
+d:Labels:0:application/unknown
+i:Labels/Easy.png:2340:image/png
+i:Labels/EasyDarkened.png:2616:image/png
+i:Labels/GSUP_1.png:568:image/png
+i:Labels/GSUP_2.png:1341:image/png
+i:Labels/GSUP_3.png:1247:image/png
+i:Labels/GSUP_Go.png:2202:image/png
+i:Labels/Hard.png:1811:image/png
+i:Labels/HardDarkened.png:2031:image/png
+i:Labels/Medium.png:2388:image/png
+i:Labels/MediumDarkened.png:2652:image/png
+i:Labels/Normal.png:2783:image/png
+i:Labels/NormalDarkened.png:3054:image/png
+i:Labels/Sheep.png:2994:image/png
+i:Labels/SheepDarkened.png:3300:image/png
+d:NORMAL:0:application/unknown
+d:NORMAL/MainGuy:0:application/unknown
+i:NORMAL/MainGuy/1Left.png:7253:image/png
+i:NORMAL/MainGuy/1Right.png:7181:image/png
+i:NORMAL/MainGuy/2Left.png:7286:image/png
+i:NORMAL/MainGuy/2Right.png:7218:image/png
+i:NORMAL/MainGuy/3Left.png:7326:image/png
+i:NORMAL/MainGuy/3Right.png:7322:image/png
+i:NORMAL/MainGuy/CrouchLeft.png:6490:image/png
+i:NORMAL/MainGuy/CrouchRight.png:6475:image/png
+i:NORMAL/MainGuy/Dead.png:4699:image/png
+i:NORMAL/MainGuy/JumpLeft.png:7290:image/png
+i:NORMAL/MainGuy/JumpRight.png:7296:image/png
+i:NORMAL/Projectile.png:1226:image/png
+d:NORMAL/Screens:0:application/unknown
+i:NORMAL/Screens/GameOver.png:262082:image/png
+i:NORMAL/Screens/Leaderboards.png:259006:image/png
+i:NORMAL/Screens/MainGame.png:252385:image/png
+i:NORMAL/Screens/MainMenu.png:271665:image/png
+i:NORMAL/Screens/OptionsEasy.png:265473:image/png
+i:NORMAL/Screens/OptionsHard.png:265960:image/png
+i:NORMAL/Screens/OptionsMedium.png:265614:image/png
+i:OnScreenKeyboard.png:17298:image/png
+i:PauseMenu.png:9277:image/png
+i:PauseMenu2.png:4501:image/png
+d:PowerUps:0:application/unknown
+i:PowerUps/defaultIcon.png:2329:image/png
+i:PowerUps/extraLifeIcon.png:2329:image/png
+i:PowerUps/jumpBoostIcon.png:1703:image/png
+i:PowerUps/scoreModifierIcon.png:3685:image/png
+d:SHEEP:0:application/unknown
+d:SHEEP/MainGuy:0:application/unknown
+i:SHEEP/MainGuy/1Left.png:1033:image/png
+i:SHEEP/MainGuy/1Right.png:1028:image/png
+i:SHEEP/MainGuy/2Left.png:973:image/png
+i:SHEEP/MainGuy/2Right.png:968:image/png
+i:SHEEP/MainGuy/3Left.png:973:image/png
+i:SHEEP/MainGuy/3Right.png:968:image/png
+i:SHEEP/MainGuy/CrouchLeft.png:924:image/png
+i:SHEEP/MainGuy/CrouchRight.png:913:image/png
+i:SHEEP/MainGuy/Dead.png:490:image/png
+i:SHEEP/MainGuy/JumpLeft.png:964:image/png
+i:SHEEP/MainGuy/JumpRight.png:960:image/png
+i:SHEEP/Projectile.png:348:image/png
+d:SHEEP/Screens:0:application/unknown
+i:SHEEP/Screens/GameOver.png:18374:image/png
+i:SHEEP/Screens/Leaderboards.png:17641:image/png
+i:SHEEP/Screens/MainGame.png:2885:image/png
+i:SHEEP/Screens/MainMenu.png:24763:image/png
+i:SHEEP/Screens/OptionsEasy.png:21113:image/png
+i:SHEEP/Screens/OptionsHard.png:21713:image/png
+i:SHEEP/Screens/OptionsMedium.png:21854:image/png
+d:soundsAndMusic:0:application/unknown
+a:soundsAndMusic/iWantToBeAHero.mp3:1189127:application/unknown
+a:soundsAndMusic/iWantToBeAHero.ogg:1018310:application/unknown
+i:SplashScreen.png:19360:image/png
+t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:770:application/unknown
+t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:2886:application/unknown
+t:com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl:5162:application/unknown
+t:com/badlogic/gdx/graphics/g3d/shaders/default.vertex.glsl:8824:application/unknown
+t:com/badlogic/gdx/graphics/g3d/shaders/depth.fragment.glsl:869:application/unknown
+t:com/badlogic/gdx/graphics/g3d/shaders/depth.vertex.glsl:2923:application/unknown
+t:com/badlogic/gdx/utils/arial-15.fnt:21743:application/unknown
+i:com/badlogic/gdx/utils/arial-15.png:21814:image/png

@@ -1,0 +1,1 @@
+Arial, 1.4 outline, size 32, left margin 2

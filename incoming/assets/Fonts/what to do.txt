@@ -1,0 +1,8 @@
+Small: Arial, 2.8 outline, size 42, left margin 2, top margin 2, bottom margin 4, bold, white text, black outline
+Small Selected: Arial, 2.5 outline, size 42, left margin 2, top margin 2, bottom margin 4, bold, black text, white outline
+
+Normal: size 50?
+Normal Selected: size 50?
+
+Large: size 60?
+Large Selected: size 60?
