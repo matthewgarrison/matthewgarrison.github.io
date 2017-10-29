@@ -5,18 +5,27 @@
 		</div>
 	</div>
 
-	<div class="row justify-content-center">
-		<div class="col-12 col-md-6 align-right">
-			<p><i class="fa fa-github-square fa-lg" aria-hidden="true"></i> <a href="https://github.com/matthewgarrison/">matthewgarrison</a></p>
+	<div class="row justify-content-center d-none d-lg-block center-contents">
+		<div class="col-12">
+			<p>{% include contact_github.html %} &nbsp;&nbsp;&nbsp; {% include contact_email.html %}</p>
 		</div>
-		<div class="col-12 col-md-6">
-			<p><i class="fa fa-envelope-o fa-lg" aria-hidden="true"></i> <a href="mailto:mail@matthew-garrison.com">mail@matthew-garrison.com</a></p>
+		<div class="col-12">
+			<p>{% include contact_linkedin.html %} &nbsp;&nbsp;&nbsp; {% include contact_resume.html %}</p>
 		</div>
-		<div class="col-12 col-md-6 align-right">
-			<p><i class="fa fa-linkedin-square fa-lg" aria-hidden="true"></i>  <a href="https://www.linkedin.com/in/matt-garrison/">matt-garrison</a></p>
+	</div>
+
+	<div class="row justify-content-center d-lg-none center-contents">
+		<div class="col-12">
+			<p>{% include contact_github.html %}</p>
 		</div>
-		<div class="col-12 col-md-6">
-			<p><i class="fa fa-file-text-o fa-lg" aria-hidden="true"></i>  <a href="/files/resume.pdf">Resume</a></p>
+		<div class="col-12">
+			<p>{% include contact_linkedin.html %}</p>
+		</div>
+		<div class="col-12">
+			<p>{% include contact_email.html %}</p>
+		</div>
+		<div class="col-12">
+			<p>{% include contact_resume.html %}</p>
 		</div>
 	</div>
 </div>
